@@ -309,6 +309,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a48f64bddb098c4b9998f3f8d66b4ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  obstacles:
+  - {fileID: 887819173739350878}
+  - {fileID: 4066074732427613828}
+  - {fileID: 3239021830156154748}
 --- !u!1 &3239021830156154748
 GameObject:
   m_ObjectHideFlags: 0
